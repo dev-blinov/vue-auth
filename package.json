@@ -1,0 +1,20 @@
+{
+  "name": "vue-auth",
+  "version": "1.0.0",
+  "description": "Auth guard",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dev-blinov/vue-auth.git"
+  },
+  "keywords": [],
+  "author": "Dmitriy Blinov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dev-blinov/vue-auth/issues"
+  },
+  "homepage": "https://github.com/dev-blinov/vue-auth#readme",
+  "dependencies": {
+    "js-cookie": "^2.2.1"
+  }
+}
